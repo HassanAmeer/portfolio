@@ -103,7 +103,6 @@
   width: 50%;
   position: absolute;
   text-align: center;
-  
   word-spacing: 2px;
   overflow: hidden;
   z-index: 4;
@@ -119,7 +118,7 @@
 }
 #smogvideo{
   object-fit: cover;
-  width: 130%;
+  width: 150%;
   height: 4em; margin-left: -1em;
   margin-top: -0.4em;
   overflow: hidden;
@@ -323,7 +322,7 @@ box-shadow: inset 2px 2px 2px 1px #161818,
 	left: 0;
 	background: linear-gradient(to right,rgba(0,199,199,0.675),aqua,aqua);
 	height: 1.5em;
-	width: 65%;
+	width: 70%;
 	border-radius: 40px;
 	animation-name: css-anim;
 	animation-duration: 4s;
